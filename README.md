@@ -16,6 +16,10 @@ published via the normal Foreman repositories.
 
 See the manual and quickstart guide available at [theforeman.org](http://theforeman.org/).
 
+If you want to run the installer directly from this repository on Ubuntu, the
+[Ubuntu source installation guide](docs/INSTALL_UBUNTU.md) walks through the
+required system packages, Bundler setup, and installer invocation steps.
+
 ## Using GIT
 
 git clone --recursive git://github.com/theforeman/foreman-installer.git -b develop
